@@ -16,6 +16,8 @@ class Report extends Model
     ];
 
     // الثوابت المطلوبة في ملفك (شهد.pdf)
+
+
     const STATUS_PENDING = 'pending';
     const STATUS_REVIEWED = 'reviewed';
     const STATUS_RESOLVED = 'resolved';
